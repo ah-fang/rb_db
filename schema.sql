@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS rb_db;
+USE DATABASE rb_db; 
+
+CREATE SCHEMA IF NOT EXISTS incoming_data;
+USE SCHEMA incoming_data;
